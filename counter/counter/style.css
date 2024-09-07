@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    position:relative;
+    top:200px;
+  }
+   #heading{
+    color:darkslateblue;
+     
+    
+   }
+
+  #countervalue {
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    margin: 10px;
+  }
+  
+  button:hover {
+    background-color: #ccc;
+    
+  }
+ 
